@@ -1,0 +1,1 @@
+This project will teach me basic HTML, Git and Github
